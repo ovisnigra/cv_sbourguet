@@ -2,7 +2,7 @@
 
 ### Estudios y formación
 
-**1993-1997** <br>
+**1993 - 1997** <br>
 _Universidad Autónoma Metropolitana (UAM Xochimilco)_ <br> Licenciatura en Diseño de la Comunicación Gráfica. Especialidad en diseño editorial.
 
 **1997** <br>
@@ -21,7 +21,7 @@ Asistente de escenografía en el montaje de la ópera La Traviata, temporada 199
 _TV Azteca_ <br>
 Diseñador gráfico y asistente de escenografía.
 
-**1998-2009** <br>
+**1998 - 2009** <br>
 _Fondo de Cultura Económica_ <br>
 Colaborador externo. Diseño de portadas, formación e ilustración técnica para más de 50 obras; principalmente títulos de las colecciones de Ciencia y Tecnología y La Ciencia para Todos. Entre otros:
 
@@ -55,60 +55,68 @@ Formación y dibujo técnico para libros de texto de educación media superior d
 _Secretaría de Relaciones Exteriores (SRE)_ <br>
 Diseño de portadas y servicios editoriales para publicaciones del Acervo Histórico Diplomático.
 
-2006-2008
-Santillana \ Diseño y servicios editoriales para títulos de matemáticas de las colecciones Retos y Ateneo (libros de educación secundaria).
+**2006 - 2008** <br>
+_Santillana_ <br>
+Diseño y servicios editoriales para títulos de matemáticas de las colecciones Retos y Ateneo (libros de educación secundaria).
 
-2009
-Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (Conabio) \ Integrante del equipo editorial encargado del diseño, ilustración y formación de  los tres primeros tomos y el Resumen Ejecutivo de la obra Capital Natural de México.
+**2009** <br>
+_Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (Conabio)_ <br>
+Integrante del equipo editorial encargado del diseño, ilustración y formación de  los tres primeros tomos y el Resumen Ejecutivo de la obra Capital Natural de México.
 
-2009-2018
-Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS-UNAM) \
-Diseñador de planta en el en el Área de Planeación Colaborativa. En esta institución diseña informes técnicos, fichas descriptivas, presentaciones, así como ilustración técnica y diseño de esquemas y mapas para diversos proyectos y artículos publicados entre los que destacan:
+**2009 - 2018** <br>
+_Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS-UNAM)_ <br>
+Diseñador de planta en el Área de Planeación Colaborativa. En esta institución diseña informes técnicos, fichas descriptivas, presentaciones, así como ilustración técnica y diseño de esquemas y mapas para diversos proyectos y artículos publicados entre los que destacan:
 
-•	Diseño del logotipo y manual de identidad del LANCIS.
-•	Desarrollo del Posgrado en Ciencias de la Sostenibilidad.
-•	Ordenamiento Ecológico Marino y Regional del Pacífico Norte.
-•	Diagnóstico ambiental de afectaciones al Río Bacanuchi y el Río Sonora.
-•	Proyecto Megadapt (sobre riesgo hidrológico en megaciudades).
-•	Sistema geo-espacial de soporte de decisiones para Zona Federal Marítimo Terrestre (ZOFEMAT).
-•	Artículos, informes y presentaciones del área de refugio para la tortuga amarilla en el Golfo de Ulloa.
+-	Diseño del logotipo y manual de identidad del LANCIS.
+-	Desarrollo del Posgrado en Ciencias de la Sostenibilidad.
+-	Ordenamiento Ecológico Marino y Regional del Pacífico Norte.
+-	Diagnóstico ambiental de afectaciones al Río Bacanuchi y el Río Sonora.
+-	Proyecto Megadapt (sobre riesgo hidrológico en megaciudades).
+-	Sistema geo-espacial de soporte de decisiones para Zona Federal Marítimo Terrestre (ZOFEMAT).
+-	Artículos, informes y presentaciones del área de refugio para la tortuga amarilla en el Golfo de Ulloa.
 
-2015
-Conabio \ Producción editorial del volumen 4 de Capital Natural de México.
+**2015** <br>
+_Conabio_ <br>
+Producción editorial del volumen 4 de Capital Natural de México.
 
-2017
-Ecosus, consultores ambientales \ Servicios editoriales para la Manifestación de Impacto Ambiental del proyecto de desarrollo ecoturístico de Chalacatepec.
+**2017** <br>
+_Ecosus, consultores ambientales_ <br>
+Servicios editoriales para la Manifestación de Impacto Ambiental del proyecto de desarrollo ecoturístico de Chalacatepec.
+
+**2018 - 2019** <br>
+-	_La Jacaranda Cultural_ <br>
+  Identidad gráfica y diseño de carteles. Programación del cineclub.
+-	_Cosecha de Corazón y Cosecha del Té, productores orgánicos de la región lacustre de Pátzcuaro_ <br>
+  Diseño de etiquetas y empaques.
+
+**2020** <br>
+_Nana Kutzi, café cultural_ <br>
+Gestión cultural, diseño de carteles, programación del cineclub. <br>
+_Comunidad Educativa La Ronda_ <br>
+Diseño de logotipo.
+
+**2021** <br>
+_Comisión Nacional de Áreas Naturales Protegidas (Conanp)_ <br>
+Servicios editoriales para la publicación de:
+
+-	Manual Operativo de la Comisión Nacional de Humedales, segunda edición.
+-	Guía para el llenado de la Ficha Informativa Ramsar.
+-	Herramienta de apoyo para la evaluación de nuevas propuestas de designación de Humedales de Importancia Internacional (Sitios Ramsar) en México.
+-	La importancia histórica y cultural de los humedales mexicanos. Etnografías de 14 sitios Ramsar.
 
 
-2018-2019
-•	La Jacaranda Cultural \  Identidad gráfica y diseño de carteles. Programación del cineclub.
-•	Cosecha de Corazón y Cosecha del Té, productores orgánicos de la región lacustre de Pátzcuaro \ Diseño de etiquetas y empaques.
-
-2020
-•	Nana Kutzi, café cultural \  Gestión cultural, diseño de carteles, programación del cineclub.
-•	Comunidad Educativa La Ronda \ Diseño de logotipo.
-
-2021
-Comisión Nacional de Áreas Naturales Protegidas (Conanp) \ Servicios editoriales para la publicación de:
-
-•	Manual Operativo de la Comisión Nacional de Humedales, segunda edición.
-•	Guía para el llenado de la Ficha Informativa Ramsar.
-•	Herramienta de apoyo para la evaluación de nuevas propuestas de designación de Humedales de Importancia Internacional (Sitios Ramsar) en México.
-•	La importancia histórica y cultural de los humedales mexicanos. Etnografías de 14 sitios Ramsar.
-
-
-Otras colaboraciones:
+### Otras colaboraciones:
 
 Servicios editoriales para diversas instituciones:
 
-•	1999, Fernández Editores
-•	2001, UNAM, Dirección General de Administración Escolar
-•	2001, ITAM (Instituto Tecnológico Autónomo de México)
-•	2005, El Colegio de México
-•	2006, INAOE (Instituto Nacional de Astrofísica, Óptica y Electrónica)
-•	2011, Castillo Editores, MacMillan
+-	**1999**, Fernández Editores
+-	**2001**, UNAM, Dirección General de Administración Escolar
+-	**2001**, ITAM (Instituto Tecnológico Autónomo de México)
+-	**2005**, El Colegio de México
+-	**2006**, INAOE (Instituto Nacional de Astrofísica, Óptica y Electrónica)
+-	**2011**, Castillo Editores, MacMillan
 
 ---
 
 
-[<-- Regresar](./index.md)
+[Regresar](./index.md)
