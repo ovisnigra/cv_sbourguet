@@ -3,53 +3,57 @@
 ### Estudios y formación
 
 **1993-1997** <br>
-_Universidad Autónoma Metropolitana (UAM Xochimilco)_ Licenciatura en Diseño de la Comunicación Gráfica. Especialidad en diseño editorial.
+_Universidad Autónoma Metropolitana (UAM Xochimilco)_ <br> Licenciatura en Diseño de la Comunicación Gráfica. Especialidad en diseño editorial.
 
-**1997**
-_Fondo de Cultura Económica (FCE)_
+**1997** <br>
+_Fondo de Cultura Económica (FCE)_ <br>
 Servicio Social en la Subgerencia de Proyectos Especiales.
 
 ---
 
 ### Experiencia laboral
 
-**1996**
-_Palacio de Bellas Artes (INBA)_
+**1996** <br>
+_Palacio de Bellas Artes (INBA)_ <br>
 Asistente de escenografía en el montaje de la ópera La Traviata, temporada 1996-1997.
 
-- 1997-1998
-  TV Azteca
-  Diseñador gráfico y asistente de escenografía.
+**1997 - 1998** <br>
+_TV Azteca_ <br>
+Diseñador gráfico y asistente de escenografía.
 
-- 1998-2009
-  - Fondo de Cultura Económica
-  - Colaborador externo. Diseño de portadas, formación e ilustración técnica para más de 50 obras; principalmente títulos de las colecciones de Ciencia y Tecnología y La Ciencia para Todos. Entre otros:
+**1998-2009** <br>
+_Fondo de Cultura Económica_ <br>
+Colaborador externo. Diseño de portadas, formación e ilustración técnica para más de 50 obras; principalmente títulos de las colecciones de Ciencia y Tecnología y La Ciencia para Todos. Entre otros:
 
 -	_Lo mismo y no lo mismo_ de Roald Hoffmann.
 -	_¿Existe el método científico?_ de Ruy Pérez Tamayo.
--	Astronomía básica de José Antonio García Barreto.
--	Física cuántica para filo-sofos de Alberto Clemente de la Torre.
--	Marx, el difunto de Carl Djerassi.
--	El universo interior de Hugo Aréchiga.
--	Los hoyos negros y el universo en expansión  de Sahen Hacyan.
--	Oxígeno de Carl Djerassi y Roald Hoffmann.
--	Vino viejo para ánforas nuevas de Roald Hoffmann y Shira Leibowitz Schmidt.
--	El ascenso de la ciencia de Brian L. Silver.
--	La mente nueva del emperador de Roger Penrose.
--	Las sustancias de los sueños de Simón Brailowsky.
+-	_Astronomía básica_ de José Antonio García Barreto.
+-	_Física cuántica para filo-sofos_ de Alberto Clemente de la Torre.
+-	_Marx, el difunto_ de Carl Djerassi.
+-	_El universo interior_ de Hugo Aréchiga.
+-	_Los hoyos negros y el universo en expansión_  de Sahen Hacyan.
+-	_Oxígeno_ de Carl Djerassi y Roald Hoffmann.
+-	_Vino viejo para ánforas nuevas_ de Roald Hoffmann y Shira Leibowitz Schmidt.
+-	_El ascenso de la ciencia_ de Brian L. Silver.
+-	_La mente nueva del emperador_ de Roger Penrose.
+-	_Las sustancias de los sueños_ de Simón Brailowsky.
 -	_La continuidad en las ciencias_ de Carlos Álvarez y Ana Barahona.
 
-> 2000
-   Orquesta Filarmónica de la Ciudad de México \ Diseño de carteles y programas de mano.
+**2000** <br>
+_Orquesta Filarmónica de la Ciudad de México_ <br>
+Diseño de carteles y programas de mano.
 
-2002
-Malayerba Producciones \ Diseño de la presentación impresa para la película Cuento de Hadas para dormir cocodrilos, de Ignacio Ortiz.
+**2002** <br>
+_Malayerba Producciones_ <br>
+Diseño de la presentación impresa para la película Cuento de Hadas para dormir cocodrilos, de Ignacio Ortiz.
 
-2002-2009
-Dirección General de Educación Tecnológica Industrial (DGETI) \ Formación y dibujo técnico para libros de texto de educación media superior de la colección DGETI. Algunos  títulos: Trigonometría, Álgebra, Probabilidad, Geometría y Geometría Analítica.
+**2002-2009** <br>
+_Dirección General de Educación Tecnológica Industrial (DGETI)_ <br>
+Formación y dibujo técnico para libros de texto de educación media superior de la colección DGETI. Algunos  títulos: Trigonometría, Álgebra, Probabilidad, Geometría y Geometría Analítica.
 
-2003-2009
-Secretaría de Relaciones Exteriores (SRE) \ Diseño de portadas y servicios editoriales para publicaciones del Acervo Histórico Diplomático.
+**2003-2009** <br>
+_Secretaría de Relaciones Exteriores (SRE)_ <br>
+Diseño de portadas y servicios editoriales para publicaciones del Acervo Histórico Diplomático.
 
 2006-2008
 Santillana \ Diseño y servicios editoriales para títulos de matemáticas de las colecciones Retos y Ateneo (libros de educación secundaria).
