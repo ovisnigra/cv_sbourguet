@@ -6,8 +6,7 @@
 _Universidad Autónoma Metropolitana (UAM Xochimilco)_ Licenciatura en Diseño de la Comunicación Gráfica. Especialidad en diseño editorial.
 
 **1997**
-
-_Fondo de Cultura Económica (FCE)_ 
+_Fondo de Cultura Económica (FCE)_
 Servicio Social en la Subgerencia de Proyectos Especiales.
 
 ---
@@ -15,30 +14,33 @@ Servicio Social en la Subgerencia de Proyectos Especiales.
 ### Experiencia laboral
 
 **1996**
-_Palacio de Bellas Artes (INBA)_ \ Asistente de escenografía en el montaje de la ópera La Traviata, temporada 1996-1997.
+_Palacio de Bellas Artes (INBA)_
+Asistente de escenografía en el montaje de la ópera La Traviata, temporada 1996-1997.
 
-1997-1998
-TV Azteca \ Diseñador gráfico y asistente de escenografía.
+- 1997-1998
+  TV Azteca
+  Diseñador gráfico y asistente de escenografía.
 
-1998-2009
-Fondo de Cultura Económica \ Colaborador externo. Diseño de portadas, formación e ilustración técnica para más de 50 obras; principalmente títulos de las colecciones de Ciencia y Tecnología y La Ciencia para Todos. Entre otros:
+- 1998-2009
+  - Fondo de Cultura Económica
+  - Colaborador externo. Diseño de portadas, formación e ilustración técnica para más de 50 obras; principalmente títulos de las colecciones de Ciencia y Tecnología y La Ciencia para Todos. Entre otros:
 
-•	Lo mismo y no lo mismo de Roald Hoffmann.
-•	¿Existe el método científico? de Ruy Pérez Tamayo.
-•	Astronomía básica de José Antonio García Barreto.
-•	Física cuántica para filo-sofos de Alberto Clemente de la Torre.
-•	Marx, el difunto de Carl Djerassi.
-•	El universo interior de Hugo Aréchiga.
-•	Los hoyos negros y el universo en expansión  de Sahen Hacyan.
-•	Oxígeno de Carl Djerassi y Roald Hoffmann.
-•	Vino viejo para ánforas nuevas de Roald Hoffmann y Shira Leibowitz Schmidt.
-•	El ascenso de la ciencia de Brian L. Silver.
-•	La mente nueva del emperador de Roger Penrose.
-•	Las sustancias de los sueños de Simón Brailowsky.
-•	La continuidad en las ciencias de Carlos Álvarez y Ana Barahona.
+-	_Lo mismo y no lo mismo_ de Roald Hoffmann.
+-	_¿Existe el método científico?_ de Ruy Pérez Tamayo.
+-	Astronomía básica de José Antonio García Barreto.
+-	Física cuántica para filo-sofos de Alberto Clemente de la Torre.
+-	Marx, el difunto de Carl Djerassi.
+-	El universo interior de Hugo Aréchiga.
+-	Los hoyos negros y el universo en expansión  de Sahen Hacyan.
+-	Oxígeno de Carl Djerassi y Roald Hoffmann.
+-	Vino viejo para ánforas nuevas de Roald Hoffmann y Shira Leibowitz Schmidt.
+-	El ascenso de la ciencia de Brian L. Silver.
+-	La mente nueva del emperador de Roger Penrose.
+-	Las sustancias de los sueños de Simón Brailowsky.
+-	_La continuidad en las ciencias_ de Carlos Álvarez y Ana Barahona.
 
-2000
-Orquesta Filarmónica de la Ciudad de México \ Diseño de carteles y programas de mano.
+> 2000
+   Orquesta Filarmónica de la Ciudad de México \ Diseño de carteles y programas de mano.
 
 2002
 Malayerba Producciones \ Diseño de la presentación impresa para la película Cuento de Hadas para dormir cocodrilos, de Ignacio Ortiz.
