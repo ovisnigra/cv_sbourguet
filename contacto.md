@@ -10,4 +10,4 @@ Dirección
 ---
 
 
-[<-- Regresar](./index.md)
+[(Regresar)](./index.md)

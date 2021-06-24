@@ -9,7 +9,7 @@ En Pátzcuaro ha formado parte de proyectos culturales y ha emprendido un negoci
 ---
 <br>
 
-Leer [Currículum vitæ](./curriculum.md)   \|   [Contacto](./contacto.md)
+[Currículum vitæ](./curriculum.md) • [Portafolio (selección)](.portafolio.md) • [Contacto](./contacto.md)
 
 TEXTO <a href="https://lancis.ecologia.unam.mx" target="_blank">Sitio Lancis</a> TEXTO
 
