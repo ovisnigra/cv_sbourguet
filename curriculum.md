@@ -2,11 +2,13 @@
 
 ### Estudios y formación
 
-1993-1997 
-Universidad Autónoma Metropolitana (UAM Xochimilco) \ Licenciatura en Diseño de la Comunicación Gráfica. Especialidad en diseño editorial.
+**1993-1997** <br>
+_Universidad Autónoma Metropolitana (UAM Xochimilco)_ Licenciatura en Diseño de la Comunicación Gráfica. Especialidad en diseño editorial.
 
-1997
-Fondo de Cultura Económica (FCE) \ Servicio Social en la Subgerencia de Proyectos Especiales.
+**1997**
+
+_Fondo de Cultura Económica (FCE)_ 
+Servicio Social en la Subgerencia de Proyectos Especiales.
 
 ---
 
