@@ -99,3 +99,8 @@ Servicios editoriales para diversas instituciones:
 •	2005, El Colegio de México
 •	2006, INAOE (Instituto Nacional de Astrofísica, Óptica y Electrónica)
 •	2011, Castillo Editores, MacMillan
+
+---
+
+
+[<-- Regresar](./index.md)
