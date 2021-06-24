@@ -83,16 +83,16 @@ Diseño de mapas y figuras para el volumen 4 de Capital Natural de México.
 _Ecosus, consultores ambientales_ <br>
 Servicios editoriales para la Manifestación de Impacto Ambiental del proyecto de desarrollo ecoturístico de Chalacatepec.
 
-**2018 - 2019** <br>
+**2018 - 2019**
 -	_La Jacaranda Cultural_ <br>
   Identidad gráfica y diseño de carteles. Programación del cineclub.
 -	_Cosecha de Corazón y Cosecha del Té, productores orgánicos de la región lacustre de Pátzcuaro_ <br>
   Diseño de etiquetas y empaques.
 
 **2020** <br>
-_Nana Kutzi, café cultural_ <br>
-Gestión cultural, diseño de carteles, programación del cineclub. <br> <br>
-_Comunidad Educativa La Ronda_ <br>
+- _Nana Kutzi, café cultural_ <br>
+Gestión cultural, diseño de carteles, programación del cineclub.
+- _Comunidad Educativa La Ronda_ <br>
 Diseño de logotipo.
 
 **2021** <br>
