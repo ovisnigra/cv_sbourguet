@@ -1,4 +1,4 @@
-## Curriculum vitæ (2021)
+## Curriculum vitæ
 
 ### Estudios y formación
 
@@ -77,7 +77,7 @@ Diseñador de planta en el Área de Planeación Colaborativa. En esta instituci�
 
 **2015** <br>
 _Conabio_ <br>
-Producción editorial del volumen 4 de Capital Natural de México.
+Diseño de mapas y figuras para el volumen 4 de Capital Natural de México.
 
 **2017** <br>
 _Ecosus, consultores ambientales_ <br>
@@ -91,7 +91,7 @@ Servicios editoriales para la Manifestación de Impacto Ambiental del proyecto d
 
 **2020** <br>
 _Nana Kutzi, café cultural_ <br>
-Gestión cultural, diseño de carteles, programación del cineclub. <br>
+Gestión cultural, diseño de carteles, programación del cineclub. <br> <br>
 _Comunidad Educativa La Ronda_ <br>
 Diseño de logotipo.
 
