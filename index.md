@@ -6,10 +6,9 @@ Ha colaborado con algunas de las principales instituciones editoriales y académ
 
 En Pátzcuaro ha formado parte de proyectos culturales y ha emprendido un negocio familiar de preparación y comercialización de productos oaxaqueños. Apasionado de la música, el cine y los libros, ocasionalmente gusta de organizar sesiones de estudio o proyecciones cine con los amigos.
 
-
 ---
 
-Texto [link](https://github.com/ovisnigra/cv_sbourguet/edit/gh-pages/index.md) texto.
+Texto [link](https://lancis.ecologia.unam.mx) texto.
 
 texto.
 
