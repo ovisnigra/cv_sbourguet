@@ -9,7 +9,7 @@ Puedes descargar el currículum y el portafolio completo en PDF:
 - [Alta resolución (40 MB)](link1)
 - [Baja resolución (26 MB)](link2)
 
-O puedes explorar una selección del portafolio: ORIG
+O puedes explorar una selección del portafolio:
 
 ---
 
@@ -184,27 +184,22 @@ img.hover-shadow {
   <div class="modal-content">
 
     <div class="mySlides">
-      <div class="numbertext">1 / 5</div>
       <img src="portafolio_sbc_web.png" style="width:100%">
     </div>
 
     <div class="mySlides">
-      <div class="numbertext">2 / 5</div>
       <img src="portafolio_sbc_web2.png" style="width:100%">
     </div>
 
     <div class="mySlides">
-      <div class="numbertext">3 / 5</div>
       <img src="portafolio_sbc_web3.png" style="width:100%">
     </div>
 
     <div class="mySlides">
-      <div class="numbertext">4 / 5</div>
       <img src="portafolio_sbc_web4.png" style="width:100%">
     </div>
 
     <div class="mySlides">
-      <div class="numbertext">5 / 5</div>
       <img src="portafolio_sbc_web5.png" style="width:100%">
     </div>
 
@@ -238,69 +233,69 @@ img.hover-shadow {
 
 <div class="row">
   <div class="column">
-    <img src="portafolio_sbc_web7_thumb.png" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+    <img src="portafolio_sbc_web7_thumb.png" style="width:100%" onclick="openModal();currentSlide(6)" class="hover-shadow cursor">
   </div>
 
   <div class="column">
-    <img src="portafolio_sbc_web8_thumb.png" style="width:100%" onclick="openModal();currentSlide(2)" class="hover-shadow cursor">
+    <img src="portafolio_sbc_web8_thumb.png" style="width:100%" onclick="openModal();currentSlide(7)" class="hover-shadow cursor">
   </div>
 
   <div class="column">
-    <img src="portafolio_sbc_web9_thumb.png" style="width:100%" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
+    <img src="portafolio_sbc_web9_thumb.png" style="width:100%" onclick="openModal();currentSlide(8)" class="hover-shadow cursor">
   </div>
   <div class="column">
-    <img src="portafolio_sbc_web10_thumb.png" style="width:100%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
-  </div>
-
-  <div class="column">
-    <img src="portafolio_sbc_web11_thumb.png" style="width:100%" onclick="openModal();currentSlide(5)" class="hover-shadow cursor">
-  </div>
-  <div class="column">
-    <img src="portafolio_sbc_web13_thumb.png" style="width:100%" onclick="openModal();currentSlide(6)" class="hover-shadow cursor">
+    <img src="portafolio_sbc_web10_thumb.png" style="width:100%" onclick="openModal();currentSlide(9)" class="hover-shadow cursor">
   </div>
 
   <div class="column">
-    <img src="portafolio_sbc_web14 _thumb.png" style="width:100%" onclick="openModal();currentSlide(7)" class="hover-shadow cursor">
+    <img src="portafolio_sbc_web11_thumb.png" style="width:100%" onclick="openModal();currentSlide(10)" class="hover-shadow cursor">
+  </div>
+  <div class="column">
+    <img src="portafolio_sbc_web13_thumb.png" style="width:100%" onclick="openModal();currentSlide(11)" class="hover-shadow cursor">
   </div>
 
   <div class="column">
-    <img src="portafolio_sbc_web15 _thumb.png" style="width:100%" onclick="openModal();currentSlide(8)" class="hover-shadow cursor">
+    <img src="portafolio_sbc_web14 _thumb.png" style="width:100%" onclick="openModal();currentSlide(12)" class="hover-shadow cursor">
   </div>
 
   <div class="column">
-    <img src="portafolio_sbc_web18 _thumb.png" style="width:100%" onclick="openModal();currentSlide(9)" class="hover-shadow cursor">
+    <img src="portafolio_sbc_web15 _thumb.png" style="width:100%" onclick="openModal();currentSlide(13)" class="hover-shadow cursor">
   </div>
 
   <div class="column">
-    <img src="portafolio_sbc_web20 _thumb.png" style="width:100%" onclick="openModal();currentSlide(10)" class="hover-shadow cursor">
+    <img src="portafolio_sbc_web18 _thumb.png" style="width:100%" onclick="openModal();currentSlide(14)" class="hover-shadow cursor">
   </div>
 
   <div class="column">
-    <img src="portafolio_sbc_web21 _thumb.png" style="width:100%" onclick="openModal();currentSlide(11)" class="hover-shadow cursor">
+    <img src="portafolio_sbc_web20 _thumb.png" style="width:100%" onclick="openModal();currentSlide(15)" class="hover-shadow cursor">
   </div>
 
   <div class="column">
-    <img src="portafolio_sbc_web26 _thumb.png" style="width:100%" onclick="openModal();currentSlide(12)" class="hover-shadow cursor">
+    <img src="portafolio_sbc_web21 _thumb.png" style="width:100%" onclick="openModal();currentSlide(16)" class="hover-shadow cursor">
   </div>
 
   <div class="column">
-    <img src="portafolio_sbc_web26 _thumb.png" style="width:100%" onclick="openModal();currentSlide(12)" class="hover-shadow cursor">
+    <img src="portafolio_sbc_web26 _thumb.png" style="width:100%" onclick="openModal();currentSlide(17)" class="hover-shadow cursor">
   </div>
 
   <div class="column">
-    <img src="portafolio_sbc_web27 _thumb.png" style="width:100%" onclick="openModal();currentSlide(13)" class="hover-shadow cursor">
+    <img src="portafolio_sbc_web26 _thumb.png" style="width:100%" onclick="openModal();currentSlide(18)" class="hover-shadow cursor">
   </div>
 
   <div class="column">
-    <img src="portafolio_sbc_web30 _thumb.png" style="width:100%" onclick="openModal();currentSlide(14)" class="hover-shadow cursor">
+    <img src="portafolio_sbc_web27 _thumb.png" style="width:100%" onclick="openModal();currentSlide(19)" class="hover-shadow cursor">
   </div>
 
   <div class="column">
-    <img src="portafolio_sbc_web32 _thumb.png" style="width:100%" onclick="openModal();currentSlide(15)" class="hover-shadow cursor">
+    <img src="portafolio_sbc_web30 _thumb.png" style="width:100%" onclick="openModal();currentSlide(20)" class="hover-shadow cursor">
+  </div>
+
+  <div class="column">
+    <img src="portafolio_sbc_web32 _thumb.png" style="width:100%" onclick="openModal();currentSlide(21)" class="hover-shadow cursor">
   </div>
 
     <div class="column">
-      <img src="portafolio_sbc_web34 _thumb.png" style="width:100%" onclick="openModal();currentSlide(16)" class="hover-shadow cursor">
+      <img src="portafolio_sbc_web34 _thumb.png" style="width:100%" onclick="openModal();currentSlide(22)" class="hover-shadow cursor">
     </div>
 
 </div>
