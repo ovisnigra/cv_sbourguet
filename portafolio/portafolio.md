@@ -38,7 +38,7 @@ body {
 }
 
 .column {
-  float: center;
+  float: left;
   width: 25%;
 }
 
@@ -58,7 +58,7 @@ body {
 
 /* Modal Content */
 .modal-content {
-  position: center;
+  position: relative;
   background-color: #000000;
   margin: auto;
   padding: 0;
