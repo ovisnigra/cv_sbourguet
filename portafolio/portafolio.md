@@ -10,7 +10,7 @@ Descargar Currículum vitae y portafolio completo:
 - [Baja resolución (26 MB)](link2)
 
 
-### Selección de trabajos del portafolio
+### Portadas
 
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -157,7 +157,6 @@ img.hover-shadow {
 </style>
 
 <!-- body -->
-<h2 style="text-align:center">Lightbox</h2>
 
 <div class="row">
   <div class="column">
@@ -205,7 +204,7 @@ img.hover-shadow {
       <p id="caption"></p>
     </div>
 
-
+<!--
     <div class="column">
       <img class="demo cursor" src="img_nature_wide.jpg" style="width:100%" onclick="currentSlide(1)" alt="Nature and sunrise">
     </div>
@@ -218,6 +217,7 @@ img.hover-shadow {
     <div class="column">
       <img class="demo cursor" src="img_lights_wide.jpg" style="width:100%" onclick="currentSlide(4)" alt="Northern Lights">
     </div>
+    -->
   </div>
 </div>
 
