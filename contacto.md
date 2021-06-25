@@ -1,11 +1,9 @@
-# Contacto
+### Contacto
 
-55 1341 2374
-sbourguet@gmail.com
+tel. 55 1341 2374
+email. sbourguet@gmail.com
 
-Dirección
-
-
+Dirección: Ahumada 11, Pátzcuaro, 61600, Michoacán, México
 
 ---
 
