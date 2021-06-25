@@ -36,7 +36,7 @@ body {
 }
 
 .column {
-  float: left;
+  float: center;
   width: 25%;
 }
 
