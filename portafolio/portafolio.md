@@ -4,7 +4,13 @@ Layout: default
 
 ## Portafolio
 
-Selección de trabajos del portafolio
+Descargar Currículum vitae y portafolio completo:
+
+- [Alta resolución (40 MB)](link1)
+- [Baja resolución (26 MB)](link2)
+
+
+### Selección de trabajos del portafolio
 
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -256,14 +262,8 @@ function showSlides(n) {
 
 
 
-
 ---
 
-
-Descargar el cv y portafolio completo:
-
-- [Alta resolución (40 MB)](link1)
-- [Baja resolución (20 MB)](link2)
 
 
 [(Regresar)](https://ovisnigra.github.io/cv_sbourguet/)
