@@ -1,19 +1,17 @@
+---
+Layout: default
+---
+
 ## Portafolio
 
-Texto introductorio
+Selección de trabajos del portafolio
 
-<!DOCTYPE html>
-<html>
-<title>W3.CSS</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
-<body>
 
 <div class="w3-container">
   <h2>Portadas</h2>
   <p>Hacer clic en las imágenes para ampliarlas</p>
-</div>
 
+</div>
 <div class="w3-row-padding">
   <div class="w3-container w3-third">
     <img src="portafolio_sbc_web.png" style="width:100%;cursor:pointer"
@@ -43,8 +41,6 @@ function onClick(element) {
 }
 </script>
 
-</body>
-</html>
 
 
 ---
