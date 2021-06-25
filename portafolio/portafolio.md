@@ -13,4 +13,4 @@ Descargar el cv y portafolio completo:
 - [Baja resolución (20 MB)](link2)
 
 
-[(Regresar)](./index.md)
+[(Regresar)](https://ovisnigra.github.io/cv_sbourguet/)
