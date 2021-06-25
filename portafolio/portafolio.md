@@ -9,7 +9,7 @@ Puedes descargar el currículum y el portafolio completo en PDF:
 - [Alta resolución (40 MB)](link1)
 - [Baja resolución (26 MB)](link2)
 
-O puedes explorar una selección del portafolio:
+O puedes explorar una selección del portafolio: ABSOLUTE
 
 ---
 
@@ -58,9 +58,9 @@ body {
 
 /* Modal Content */
 .modal-content {
-  position: relative;
+  position: absolute;
   background-color: #000000;
-  margin: 0 auto;
+  margin: auto;
   padding: 0;
   width: 90%;
   max-width: 1200px;
