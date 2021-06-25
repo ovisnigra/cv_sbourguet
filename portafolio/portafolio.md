@@ -4,13 +4,14 @@ Layout: default
 
 ## Portafolio
 
-Descargar Currículum vitae y portafolio completo:
+Puedes descargar el currículum vitae y portafolio completo en PDF:
 
 - [Alta resolución (40 MB)](link1)
 - [Baja resolución (26 MB)](link2)
 
+O puedes explorar una selección del portafolio
 
-### Portadas
+#### Portadas
 
 
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -55,8 +56,8 @@ body {
 
 /* Modal Content */
 .modal-content {
-  position: relative;
-  background-color: #fefefe;
+  position: center;
+  background-color: #000000;
   margin: auto;
   padding: 0;
   width: 90%;
