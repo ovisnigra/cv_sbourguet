@@ -60,7 +60,7 @@ body {
 .modal-content {
   position: relative;
   background-color: #000000;
-  margin: auto;
+  margin: 0 auto;
   padding: 0;
   width: 90%;
   max-width: 1200px;
