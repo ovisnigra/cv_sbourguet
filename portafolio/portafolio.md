@@ -174,6 +174,9 @@ img.hover-shadow {
   <div class="column">
     <img src="portafolio_sbc_web4_thumb.png" style="width:100%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
   </div>
+  <div class="column">
+    <img src="portafolio_sbc_web5_thumb.png" style="width:100%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
+  </div>
 </div>
 
 <div id="myModal" class="modal">
@@ -181,24 +184,30 @@ img.hover-shadow {
   <div class="modal-content">
 
     <div class="mySlides">
-      <div class="numbertext">1 / 4</div>
+      <div class="numbertext">1 / 5</div>
       <img src="portafolio_sbc_web.png" style="width:100%">
     </div>
 
     <div class="mySlides">
-      <div class="numbertext">2 / 4</div>
+      <div class="numbertext">2 / 5</div>
       <img src="portafolio_sbc_web2.png" style="width:100%">
     </div>
 
     <div class="mySlides">
-      <div class="numbertext">3 / 4</div>
+      <div class="numbertext">3 / 5</div>
       <img src="portafolio_sbc_web3.png" style="width:100%">
     </div>
 
     <div class="mySlides">
-      <div class="numbertext">4 / 4</div>
+      <div class="numbertext">4 / 5</div>
       <img src="portafolio_sbc_web4.png" style="width:100%">
     </div>
+
+    <div class="mySlides">
+      <div class="numbertext">5 / 5</div>
+      <img src="portafolio_sbc_web5.png" style="width:100%">
+    </div>
+
 
     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
     <a class="next" onclick="plusSlides(1)">&#10095;</a>
