@@ -308,84 +308,67 @@ img.hover-shadow {
   <div class="modal-content">
 
     <div class="mySlides">
-      <div class="numbertext">1 / 16</div>
       <img src="portafolio_sbc_web7.png" style="width:100%">
     </div>
 
     <div class="mySlides">
-      <div class="numbertext">2 / 16</div>
       <img src="portafolio_sbc_web8.png" style="width:100%">
     </div>
 
     <div class="mySlides">
-      <div class="numbertext">3 / 16</div>
       <img src="portafolio_sbc_web9.png" style="width:100%">
     </div>
 
     <div class="mySlides">
-      <div class="numbertext">4 / 16</div>
       <img src="portafolio_sbc_web10.png" style="width:100%">
     </div>
 
     <div class="mySlides">
-      <div class="numbertext">5 / 16</div>
       <img src="portafolio_sbc_web11.png" style="width:100%">
     </div>
 
     <div class="mySlides">
-      <div class="numbertext">6 / 16</div>
       <img src="portafolio_sbc_web13.png" style="width:100%">
     </div>
 
     <div class="mySlides">
-      <div class="numbertext">7 / 16</div>
       <img src="portafolio_sbc_web14.png" style="width:100%">
     </div>
 
     <div class="mySlides">
-      <div class="numbertext">8 / 16</div>
       <img src="portafolio_sbc_web15.png" style="width:100%">
     </div>
 
-
     <div class="mySlides">
-      <div class="numbertext">9 / 16</div>
       <img src="portafolio_sbc_web18.png" style="width:100%">
     </div>
 
     <div class="mySlides">
-      <div class="numbertext">10 / 16</div>
       <img src="portafolio_sbc_web20.png" style="width:100%">
     </div>
 
     <div class="mySlides">
-      <div class="numbertext">11 / 16</div>
       <img src="portafolio_sbc_web21.png" style="width:100%">
     </div>
 
     <div class="mySlides">
-      <div class="numbertext">12 / 16</div>
         <img src="portafolio_sbc_web26.png" style="width:100%">
     </div>
 
     <div class="mySlides">
-      <div class="numbertext">13 / 16</div>
       <img src="portafolio_sbc_web27.png" style="width:100%">
     </div>
 
 
     <div class="mySlides">
-      <div class="numbertext">14 / 16</div>
       <img src="portafolio_sbc_web30.png" style="width:100%">
     </div>
 
     <div class="mySlides">
-      <div class="numbertext">15 / 16</div>
       <img src="portafolio_sbc_web32.png" style="width:100%">
     </div>
 
     <div class="mySlides">
-      <div class="numbertext">16 / 16</div>
       <img src="portafolio_sbc_web34.png" style="width:100%">
     </div>
 
