@@ -9,7 +9,7 @@ Puedes descargar el currículum y el portafolio completo en PDF:
 - [Alta resolución (40 MB)](link1)
 - [Baja resolución (26 MB)](link2)
 
-O puedes explorar una selección del portafolio: JUSTIFY
+O puedes explorar una selección del portafolio: JUSTIFY_FLEX
 
 ---
 
@@ -59,6 +59,8 @@ body {
 /* Modal Content */
 .modal-content {
   position: relative;
+  display: flex;
+  flex-direction: column;
   justify-content: center;
   background-color: #000000;
   margin: auto;
