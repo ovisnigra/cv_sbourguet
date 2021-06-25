@@ -126,7 +126,7 @@ body {
   color: #f2f2f2;
   font-size: 12px;
   padding: 8px 12px;
-  position: absolute;
+  position: relative;
   top: 0;
 }
 
@@ -175,7 +175,7 @@ img.hover-shadow {
     <img src="portafolio_sbc_web4_thumb.png" style="width:100%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
   </div>
   <div class="column">
-    <img src="portafolio_sbc_web5_thumb.png" style="width:100%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
+    <img src="portafolio_sbc_web5_thumb.png" style="width:100%" onclick="openModal();currentSlide(5)" class="hover-shadow cursor">
   </div>
 </div>
 
@@ -232,6 +232,176 @@ img.hover-shadow {
   </div>
 </div>
 
+---
+
+#### Interiores
+
+<div class="row">
+  <div class="column">
+    <img src="portafolio_sbc_web7_thumb.png" style="width:100%" onclick="openModal();currentSlide(1)" class="hover-shadow cursor">
+  </div>
+
+  <div class="column">
+    <img src="portafolio_sbc_web8_thumb.png" style="width:100%" onclick="openModal();currentSlide(2)" class="hover-shadow cursor">
+  </div>
+
+  <div class="column">
+    <img src="portafolio_sbc_web9_thumb.png" style="width:100%" onclick="openModal();currentSlide(3)" class="hover-shadow cursor">
+  </div>
+  <div class="column">
+    <img src="portafolio_sbc_web10_thumb.png" style="width:100%" onclick="openModal();currentSlide(4)" class="hover-shadow cursor">
+  </div>
+
+  <div class="column">
+    <img src="portafolio_sbc_web11_thumb.png" style="width:100%" onclick="openModal();currentSlide(5)" class="hover-shadow cursor">
+  </div>
+  <div class="column">
+    <img src="portafolio_sbc_web13_thumb.png" style="width:100%" onclick="openModal();currentSlide(6)" class="hover-shadow cursor">
+  </div>
+
+  <div class="column">
+    <img src="portafolio_sbc_web14 _thumb.png" style="width:100%" onclick="openModal();currentSlide(7)" class="hover-shadow cursor">
+  </div>
+
+  <div class="column">
+    <img src="portafolio_sbc_web15 _thumb.png" style="width:100%" onclick="openModal();currentSlide(8)" class="hover-shadow cursor">
+  </div>
+
+  <div class="column">
+    <img src="portafolio_sbc_web18 _thumb.png" style="width:100%" onclick="openModal();currentSlide(9)" class="hover-shadow cursor">
+  </div>
+
+  <div class="column">
+    <img src="portafolio_sbc_web20 _thumb.png" style="width:100%" onclick="openModal();currentSlide(10)" class="hover-shadow cursor">
+  </div>
+
+  <div class="column">
+    <img src="portafolio_sbc_web21 _thumb.png" style="width:100%" onclick="openModal();currentSlide(11)" class="hover-shadow cursor">
+  </div>
+
+  <div class="column">
+    <img src="portafolio_sbc_web26 _thumb.png" style="width:100%" onclick="openModal();currentSlide(12)" class="hover-shadow cursor">
+  </div>
+
+  <div class="column">
+    <img src="portafolio_sbc_web26 _thumb.png" style="width:100%" onclick="openModal();currentSlide(12)" class="hover-shadow cursor">
+  </div>
+
+  <div class="column">
+    <img src="portafolio_sbc_web27 _thumb.png" style="width:100%" onclick="openModal();currentSlide(13)" class="hover-shadow cursor">
+  </div>
+
+  <div class="column">
+    <img src="portafolio_sbc_web30 _thumb.png" style="width:100%" onclick="openModal();currentSlide(14)" class="hover-shadow cursor">
+  </div>
+
+  <div class="column">
+    <img src="portafolio_sbc_web32 _thumb.png" style="width:100%" onclick="openModal();currentSlide(15)" class="hover-shadow cursor">
+  </div>
+
+    <div class="column">
+      <img src="portafolio_sbc_web34 _thumb.png" style="width:100%" onclick="openModal();currentSlide(16)" class="hover-shadow cursor">
+    </div>
+
+</div>
+
+<!--terimnan thumbs-->
+<!-- inician imagenes-->
+
+<div id="myModal" class="modal">
+  <span class="close cursor" onclick="closeModal()">&times;</span>
+  <div class="modal-content">
+
+    <div class="mySlides">
+      <div class="numbertext">1 / 16</div>
+      <img src="portafolio_sbc_web7.png" style="width:100%">
+    </div>
+
+    <div class="mySlides">
+      <div class="numbertext">2 / 16</div>
+      <img src="portafolio_sbc_web8.png" style="width:100%">
+    </div>
+
+    <div class="mySlides">
+      <div class="numbertext">3 / 16</div>
+      <img src="portafolio_sbc_web9.png" style="width:100%">
+    </div>
+
+    <div class="mySlides">
+      <div class="numbertext">4 / 16</div>
+      <img src="portafolio_sbc_web10.png" style="width:100%">
+    </div>
+
+    <div class="mySlides">
+      <div class="numbertext">5 / 16</div>
+      <img src="portafolio_sbc_web11.png" style="width:100%">
+    </div>
+
+    <div class="mySlides">
+      <div class="numbertext">6 / 16</div>
+      <img src="portafolio_sbc_web13.png" style="width:100%">
+    </div>
+
+    <div class="mySlides">
+      <div class="numbertext">7 / 16</div>
+      <img src="portafolio_sbc_web14.png" style="width:100%">
+    </div>
+
+    <div class="mySlides">
+      <div class="numbertext">8 / 16</div>
+      <img src="portafolio_sbc_web15.png" style="width:100%">
+    </div>
+
+
+    <div class="mySlides">
+      <div class="numbertext">9 / 16</div>
+      <img src="portafolio_sbc_web18.png" style="width:100%">
+    </div>
+
+    <div class="mySlides">
+      <div class="numbertext">10 / 16</div>
+      <img src="portafolio_sbc_web20.png" style="width:100%">
+    </div>
+
+    <div class="mySlides">
+      <div class="numbertext">11 / 16</div>
+      <img src="portafolio_sbc_web21.png" style="width:100%">
+    </div>
+
+    <div class="mySlides">
+      <div class="numbertext">12 / 16</div>
+        <img src="portafolio_sbc_web26.png" style="width:100%">
+    </div>
+
+    <div class="mySlides">
+      <div class="numbertext">13 / 16</div>
+      <img src="portafolio_sbc_web27.png" style="width:100%">
+    </div>
+
+
+    <div class="mySlides">
+      <div class="numbertext">14 / 16</div>
+      <img src="portafolio_sbc_web30.png" style="width:100%">
+    </div>
+
+    <div class="mySlides">
+      <div class="numbertext">15 / 16</div>
+      <img src="portafolio_sbc_web32.png" style="width:100%">
+    </div>
+
+    <div class="mySlides">
+      <div class="numbertext">16 / 16</div>
+      <img src="portafolio_sbc_web34.png" style="width:100%">
+    </div>
+
+    <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
+    <a class="next" onclick="plusSlides(1)">&#10095;</a>
+
+  </div>
+</div>
+
+
+<!-- SCRIPT -->
 <script>
 function openModal() {
   document.getElementById("myModal").style.display = "block";
