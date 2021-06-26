@@ -8,7 +8,7 @@ Actualmente reside en Pátzcuaro donde ha formado parte de proyectos culturales 
 
 ---
 <br>
-[Currículum vitæ](./curriculum.md) &nbsp;&nbsp; •&nbsp;&nbsp;[Portafolio](/portafolio/portafolio.md)&nbsp;&nbsp;•&nbsp;&nbsp;[Contacto](./contacto.md)
+[Currículum vitæ](./curriculum.md)&nbsp;&nbsp; •&nbsp;&nbsp;[Portafolio](/portafolio/portafolio.md)&nbsp;&nbsp;•&nbsp;&nbsp;[Contacto](./contacto.md)
 
 ---
 
