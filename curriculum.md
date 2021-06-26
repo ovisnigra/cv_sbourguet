@@ -92,7 +92,7 @@ Servicios editoriales para la Manifestación de Impacto Ambiental del proyecto d
 
 **2020** <br>
 - _Nana Kutzi, café cultural_ <br>
-Gestión cultural, diseño de carteles, programación del cineclub.
+Diseño de carteles, programación del cineclub.
 - _Comunidad Educativa La Ronda_ <br>
 Diseño de logotipo.
 
