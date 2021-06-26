@@ -280,14 +280,14 @@ Full-Width Styles
   border-bottom-left-radius: 2px;
   border-bottom-right-radius: 2px;
 }
-/*** CAMBIOS COLOR 212121 - 373737 ***t ambien revisar linea 361 para el footer ***/
+/*** CAMBIOS COLOR bg 212121 - top 373737 ***t ambien revisar linea 361 para el footer ***/
 #header_wrap {
-  background: #35879a;
-  background: -moz-linear-gradient(top, #42a8c0, #35879a);
-  background: -webkit-linear-gradient(top, #42a8c0, #35879a);
-  background: -ms-linear-gradient(top, #42a8c0, #35879a);
-  background: -o-linear-gradient(top, #42a8c0, #35879a);
-  background: linear-gradient(to top, #42a8c0, #35879a);
+  background: #003366;
+  background: -moz-linear-gradient(top, #373737, #003366);
+  background: -webkit-linear-gradient(top, #373737, #003366);
+  background: -ms-linear-gradient(top, #373737, #003366);
+  background: -o-linear-gradient(top, #373737, #003366);
+  background: linear-gradient(to top, #373737, #003366);
 }
 
 #header_wrap .inner {
@@ -360,7 +360,7 @@ Full-Width Styles
 }
 /*** cambio footer wrap. era: 212121 ***/
 #footer_wrap {
-  background: #35879a;
+  background: #003366;
 }
 
 
