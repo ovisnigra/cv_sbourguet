@@ -8,8 +8,15 @@ Actualmente reside en Pátzcuaro donde ha formado parte de proyectos culturales 
 
 ---
 <br>
-[Currículum vitæ](./curriculum.md)&nbsp;&nbsp;•&nbsp;&nbsp;Descarga CV y Portafolio [PDF baja resolución](/assets/cv-portafolio_sbourguet_baja.pdf)&nbsp;&nbsp;[PDF alta resolución](/assets/cv-portafolio_sbourguet_alta.pdf)&nbsp;&nbsp;•&nbsp;&nbsp;[Contacto](./contacto.md)
+- [Currículum vitæ](./curriculum.md)
+- Descarga CV y Portafolio en PDF
+  - [Baja resolución (25 MB)](/assets/cv-portafolio_sbourguet_baja.pdf)
+  - [Alta resolución (40 MB)](/assets/cv-portafolio_sbourguet_alta.pdf)
+- [Contacto](./contacto.md)
 
 ---
-
+<!--
 Texto <a href="https://lancis.ecologia.unam.mx" target="_blank">Link externo (Sitio Lancis)</a>
+
+espacios: &nbsp;&nbsp;
+-->
