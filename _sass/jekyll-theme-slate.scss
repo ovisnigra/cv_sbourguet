@@ -280,14 +280,14 @@ Full-Width Styles
   border-bottom-left-radius: 2px;
   border-bottom-right-radius: 2px;
 }
-
+/*** CAMBIOS COLOR 212121 - 373737 ***t ambien revisar linea 361 para el footer ***/
 #header_wrap {
-  background: #212121;
-  background: -moz-linear-gradient(top, #373737, #212121);
-  background: -webkit-linear-gradient(top, #373737, #212121);
-  background: -ms-linear-gradient(top, #373737, #212121);
-  background: -o-linear-gradient(top, #373737, #212121);
-  background: linear-gradient(to top, #373737, #212121);
+  background: #35879a;
+  background: -moz-linear-gradient(top, #42a8c0, #35879a);
+  background: -webkit-linear-gradient(top, #42a8c0, #35879a);
+  background: -ms-linear-gradient(top, #42a8c0, #35879a);
+  background: -o-linear-gradient(top, #42a8c0, #35879a);
+  background: linear-gradient(to top, #42a8c0, #35879a);
 }
 
 #header_wrap .inner {
@@ -358,9 +358,9 @@ Full-Width Styles
 #main_content {
   padding-top: 40px;
 }
-
+/*** cambio footer wrap. era: 212121 ***/
 #footer_wrap {
-  background: #212121;
+  background: #35879a;
 }
 
 
