@@ -61,7 +61,8 @@ Diseño y servicios editoriales para títulos de matemáticas de las colecciones
 
 **2009** <br>
 _Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (Conabio)_ <br>
-Integrante del equipo editorial encargado del diseño, ilustración y formación de  los tres primeros tomos y el Resumen Ejecutivo de la obra _Capital Natural de México_ <a href="https://www.biodiversidad.gob.mx/pais/capitalNatMex.html" target="_blank">(visitar sitio)</a>.
+Integrante del equipo editorial encargado del diseño, ilustración y formación de  los tres primeros tomos y el Resumen Ejecutivo de la obra _Capital Natural de México_
+<!-- <a href="https://www.biodiversidad.gob.mx/pais/capitalNatMex.html" target="_blank">(visitar sitio)</a>.-->
 
 **2009 - 2018** <br>
 _Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS-UNAM)_ <br>
