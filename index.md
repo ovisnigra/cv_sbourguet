@@ -9,7 +9,7 @@ Actualmente reside en Pátzcuaro donde ha formado parte de proyectos culturales 
 ---
 
 - [Currículum vitæ](./curriculum.md)
-- CV y Portafolio en PDF [Baja resolución (25 MB)](/assets/cv-portafolio_sbourguet_baja.pdf) - - [Alta resolución (40 MB)](/assets/cv-portafolio_sbourguet_alta.pdf)
+- CV y Portafolio en PDF [Baja resolución (25 MB)](/assets/cv-portafolio_sbourguet_baja.pdf) \ [Alta resolución (40 MB)](/assets/cv-portafolio_sbourguet_alta.pdf)
 
 <!--
 
