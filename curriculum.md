@@ -68,12 +68,12 @@ Integrante del equipo editorial encabezado por el editor Antonio Bolívar en los
 _Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS-UNAM)_ <br>
 Diseñador de planta en el Área de Planeación Colaborativa. En esta institución diseña informes técnicos, fichas descriptivas, presentaciones, así como ilustración técnica y diseño de esquemas y mapas para diversos proyectos y publicaciones entre los que destacan:
 
--	Logotipo y manual de identidad del LANCIS.
--	Consultoría gráfica para el sitio web de LANCIS.
 -	Desarrollo del Posgrado en Ciencias de la Sostenibilidad.
 -	Ordenamiento Ecológico Marino y Regional del Pacífico Norte.
 -	Diagnóstico ambiental de afectaciones al Río Bacanuchi y el Río Sonora.
 -	Proyecto Megadapt (sobre riesgo hidrológico en megaciudades).
+-	Logotipo y manual de identidad del LANCIS.
+-	Sitio web de LANCIS (consultoría y adaptacíon).
 
 **2015** <br>
 _Conabio_ <br>
