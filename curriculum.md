@@ -15,7 +15,7 @@ Servicio Social en la Subgerencia de Proyectos Especiales.
 
 **1996** <br>
 _Palacio de Bellas Artes (INBA)_ <br>
-Asistente de escenografía en el montaje de la ópera La Traviata, temporada 1996-1997.
+Asistente de escenografía en el montaje de la ópera _La Traviata._
 
 **1997 - 1998** <br>
 _TV Azteca_ <br>
@@ -53,28 +53,27 @@ Formación y dibujo técnico para libros de texto de educación media superior d
 
 **2003-2009** <br>
 _Secretaría de Relaciones Exteriores (SRE)_ <br>
-Diseño de portadas y servicios editoriales para publicaciones del Acervo Histórico Diplomático.
+Diseño de portadas y servicios editoriales para publicaciones del Acervo Histórico Diplomático de la SRE.
 
 **2006 - 2008** <br>
 _Santillana_ <br>
-Diseño y servicios editoriales para títulos de matemáticas de las colecciones Retos y Ateneo (libros de educación secundaria).
+Diseño y servicios editoriales para títulos de matemáticas de las colecciones Retos y Ateneo (educación secundaria).
 
 **2009** <br>
 _Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (Conabio)_ <br>
-Integrante del equipo editorial encargado del diseño, ilustración y formación de  los tres primeros tomos y el Resumen Ejecutivo de la obra _Capital Natural de México_
+Integrante del equipo editorial encabezado por el editor Antonio Bolívar en los tres primeros tomos y el Resumen Ejecutivo de la obra _Capital Natural de México_
 <!-- <a href="https://www.biodiversidad.gob.mx/pais/capitalNatMex.html" target="_blank">(visitar sitio)</a>.-->
 
 **2009 - 2018** <br>
 _Laboratorio Nacional de Ciencias de la Sostenibilidad (LANCIS-UNAM)_ <br>
-Diseñador de planta en el Área de Planeación Colaborativa. En esta institución diseña informes técnicos, fichas descriptivas, presentaciones, así como ilustración técnica y diseño de esquemas y mapas para diversos proyectos y artículos publicados entre los que destacan:
+Diseñador de planta en el Área de Planeación Colaborativa. En esta institución diseña informes técnicos, fichas descriptivas, presentaciones, así como ilustración técnica y diseño de esquemas y mapas para diversos proyectos y publicaciones entre los que destacan:
 
--	Diseño del logotipo y manual de identidad del LANCIS.
+-	Logotipo y manual de identidad del LANCIS.
+-	Consultoría gráfica para el sitio web de LANCIS.
 -	Desarrollo del Posgrado en Ciencias de la Sostenibilidad.
 -	Ordenamiento Ecológico Marino y Regional del Pacífico Norte.
 -	Diagnóstico ambiental de afectaciones al Río Bacanuchi y el Río Sonora.
 -	Proyecto Megadapt (sobre riesgo hidrológico en megaciudades).
--	Sistema geo-espacial de soporte de decisiones para Zona Federal Marítimo Terrestre (ZOFEMAT).
--	Artículos, informes y presentaciones del área de refugio para la tortuga amarilla en el Golfo de Ulloa.
 
 **2015** <br>
 _Conabio_ <br>
@@ -86,9 +85,9 @@ Servicios editoriales para la Manifestación de Impacto Ambiental del proyecto d
 
 **2018 - 2019**
 -	_La Jacaranda Cultural_ <br>
-  Identidad gráfica y diseño de carteles. Programación del cineclub.
--	_Cosecha de Corazón y Cosecha del Té, productores orgánicos de la región lacustre de Pátzcuaro_ <br>
-  Diseño de etiquetas y empaques.
+  Identidad gráfica y diseño de carteles. Programador invitado en el cineclub.
+-	_Cosecha de Corazón y Cosecha del Té_ <br>
+  Diseño de etiquetas y empaques para productores orgánicos de la región lacustre de Pátzcuaro.
 
 **2020** <br>
 - _Nana Kutzi, café cultural_ <br>
@@ -98,12 +97,10 @@ Diseño de logotipo.
 
 **2021** <br>
 _Comisión Nacional de Áreas Naturales Protegidas (Conanp)_ <br>
-Servicios editoriales para la publicación de:
+Diseño, formación y coordinación gráfica de 4 publicaciones, entre ellas:
 
 -	Manual Operativo de la Comisión Nacional de Humedales, segunda edición.
--	Guía para el llenado de la Ficha Informativa Ramsar.
--	Herramienta de apoyo para la evaluación de nuevas propuestas de designación de Humedales de Importancia Internacional (Sitios Ramsar) en México.
--	La importancia histórica y cultural de los humedales mexicanos. Etnografías de 14 sitios Ramsar.
+-	Etnografías de 14 sitios Ramsar.
 
 
 ### Otras colaboraciones:
