@@ -53,7 +53,7 @@ Formación y dibujo técnico para libros de texto de educación media superior d
 
 **2003-2009** <br>
 _Secretaría de Relaciones Exteriores (SRE)_ <br>
-Diseño de portadas y servicios editoriales para publicaciones del Acervo Histórico Diplomático de la SRE.
+Diseño de portadas y servicios editoriales para publicaciones del Acervo Histórico Diplomático.
 
 **2006 - 2008** <br>
 _Santillana_ <br>
@@ -87,7 +87,7 @@ Servicios editoriales para la Manifestación de Impacto Ambiental del proyecto d
 -	_La Jacaranda Cultural_ <br>
   Identidad gráfica y diseño de carteles. Programador invitado en el cineclub.
 -	_Cosecha de Corazón y Cosecha del Té_ <br>
-  Diseño de etiquetas y empaques para productores orgánicos de la región lacustre de Pátzcuaro.
+  Diseño de etiquetas para productores orgánicos de la región lacustre de Pátzcuaro.
 
 **2020** <br>
 - _Nana Kutzi, café cultural_ <br>
@@ -100,7 +100,7 @@ _Comisión Nacional de Áreas Naturales Protegidas (Conanp)_ <br>
 Diseño, formación y coordinación gráfica de 4 publicaciones, entre ellas:
 
 -	Manual Operativo de la Comisión Nacional de Humedales, segunda edición.
--	Etnografías de 14 sitios Ramsar.
+-	La importancia histórica y cultural de los humedales mexicanos. Etnografías de 14 sitios Ramsar.
 
 
 ### Otras colaboraciones:
